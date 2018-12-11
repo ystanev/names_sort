@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\ystanev\\Documents\\Yury's Docs\\McMaster University\\4CC3 - Parallel Programming\\names_sort\\names_sort\\names_sort.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
